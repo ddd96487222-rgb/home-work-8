@@ -148,3 +148,27 @@ padding: 10px;
     align-items: center;
     justify-content: space-around;
 }
+/* sc-3 */
+.sc-4-text{
+    text-align: center;
+
+}
+.sc-4-text h1{
+    font-size: 44px;
+    margin: 100px 0px 20px 0px;
+}
+.sc-4-text p{
+    margin:0px 0px 100px 0px;
+}
+.sc-4-box-1{
+    width: 250px;
+    box-shadow: 0px 0px 5px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.sc-4-box{
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 50px 0px;
+}
