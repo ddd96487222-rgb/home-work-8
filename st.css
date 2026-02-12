@@ -118,3 +118,33 @@ padding: 10px;
     border-radius: 20px;
 }
 /* sc-2 */
+
+/* sc-3 */
+.sc-3-text{
+     width:  600px;
+}
+.sc-3-h1{
+    font-size: 50px;
+    margin: 10px 0px;
+}
+.first{
+    align-items: center;
+    gap: 20px;
+    margin: 10px 0px;
+}
+.first-text{
+    width: 300px;
+    
+}
+.first-text h2{
+    margin: 10px 0px;
+}
+.sc-3-p{
+    font-size: 20px;
+    width: 400px;
+    margin: 0px 0px 50px 0px;
+}
+.sc-3{
+    align-items: center;
+    justify-content: space-around;
+}
