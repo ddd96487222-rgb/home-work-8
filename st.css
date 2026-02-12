@@ -238,6 +238,7 @@ padding: 10px;
     padding: 10px;
     margin: 20px;
     font-size: 20px;
+    color: white;
 }
 .right{
 
@@ -267,4 +268,27 @@ padding: 10px;
     align-items: center;
     justify-content: space-around;
     margin: 50px;
+}
+.ft-box-1
+{
+    width: 300px;
+}
+.sc-8{
+    background-color: #101C26;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.ft-box-2{
+    width: 200px;
+}
+.all-sc-8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.ft-img{
+    gap: 20px;
 }
