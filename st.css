@@ -172,3 +172,24 @@ padding: 10px;
     gap: 30px;
     margin: 50px 0px;
 }
+/* sc-4 */
+.sc-5-box-1{
+    width: 500px;
+}
+.sc-5-box-1 p{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.sc-5-box{
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin: 50px 0px;
+}
+.sc-5-box-1 img{
+    margin: 20px 0px;
+}
+.sc-5-h1{
+    margin: 0px 180px;
+    font-size: 50px;
+}
