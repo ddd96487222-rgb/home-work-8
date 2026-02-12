@@ -193,3 +193,17 @@ padding: 10px;
     margin: 0px 180px;
     font-size: 50px;
 }
+/* sc-6 */
+.sc-6-img{
+    align-items: center;
+    gap: 50px;
+    overflow: auto;
+    margin: 50px 0px;
+}
+.sc-6-text{
+    text-align: center;
+}
+.sc-6-text h1{
+    font-size: 50px;
+    margin: 10px 0px;
+}
